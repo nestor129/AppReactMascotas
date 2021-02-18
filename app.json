@@ -1,0 +1,12 @@
+{
+  "name": "appPAg",
+  "displayName": "appPAg",
+  "expo": {
+    "name": "appPAg",
+    "slug": "appPAg",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
